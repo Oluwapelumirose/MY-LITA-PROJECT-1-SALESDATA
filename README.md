@@ -136,3 +136,7 @@ Load the dataset into SQL Server environment to writ and validate the wueries
 
 ![CD 8](https://github.com/user-attachments/assets/eaa227d6-75eb-4933-a0ad-cdc5df846c3c)
 
+
+### Data Visualization
+
+![CustomersData Dashboard](https://github.com/user-attachments/assets/300ebbca-94af-498b-84e8-fbcde6398c6d)
